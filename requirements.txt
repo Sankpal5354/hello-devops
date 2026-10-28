@@ -1,2 +1,5 @@
 
 pytest
+pandas==2.2.3
+scikit-learn
+evidently==0.7.23
